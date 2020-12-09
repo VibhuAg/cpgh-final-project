@@ -200,6 +200,7 @@ h1, h2, h3, h4, h5, h6 { color: #333; }
 
 .img-inside {
 	float: right;
+	margin-left: 20px;
 }
 
 .tm-section-1-l {
@@ -648,7 +649,7 @@ button:hover { cursor: pointer; }
 }
 
 @media (min-width: 1240px) {
-  .tm-section-1-r { max-height: 700px; }
+  .tm-section-1-r { max-height: 750px; }
 }
 
 @media (max-width: 1145px) {
