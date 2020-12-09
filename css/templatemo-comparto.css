@@ -1,9 +1,5 @@
 /*
 
-Comparto TemplateMo
-
-https://templatemo.com/tm-544-comparto
-
 
 Color Codes
 ------------
@@ -649,7 +645,9 @@ button:hover { cursor: pointer; }
 }
 
 @media (min-width: 1240px) {
-  .tm-section-1-r { max-height: 750px; }
+	.tm-section-1-r { 
+		max-height: 750px; 
+	}
 }
 
 @media (max-width: 1145px) {
